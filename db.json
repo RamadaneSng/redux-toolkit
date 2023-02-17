@@ -1,0 +1,28 @@
+{
+  "pictures": [
+    {
+      "artist": "Lago ",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/352",
+      "id": 1
+    },
+    {
+      "artist": "yacou le chinois",
+      "year": "2010",
+      "photo": "https://picsum.photos/400/396",
+      "id": 4
+    },
+    {
+      "artist": "unknxwn",
+      "year": "2023",
+      "photo": "https://picsum.photos/400/461",
+      "id": 9
+    },
+    {
+      "artist": "jojo ",
+      "year": "2020",
+      "photo": "https://picsum.photos/400/393",
+      "id": 10
+    }
+  ]
+}
